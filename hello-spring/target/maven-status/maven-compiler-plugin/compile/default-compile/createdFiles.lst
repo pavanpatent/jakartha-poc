@@ -1,0 +1,5 @@
+org\six\Application.class
+org\six\entity\Book.class
+org\six\service\BookService.class
+org\six\repository\BookRepository.class
+org\six\config\DatabaseConfig.class
